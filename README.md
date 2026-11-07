@@ -1,5 +1,4 @@
-# 面向交易反欺诈场景的图风控模型
-# GAT + DQN 可解释风险归因
+# 面向交易反欺诈场景的图风控模型：GAT + DQN 可解释风险归因
 
 > 基于图注意力网络（GAT）的交易欺诈识别模型，配合 DQN 强化学习解释器做风险归因。
 > 数据集：Elliptic Bitcoin Transaction Graph。
