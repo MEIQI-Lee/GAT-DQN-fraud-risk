@@ -47,7 +47,7 @@ data/raw/*.csv ──> scripts/prepare_data.py ──> data/processed/elliptic_g
         results/explanations/  (欺诈节点解释子图 + 可视化)
 ```
 
-## 3. 数据与划分（双协议，全部真实）
+## 3. 数据与划分（双协议）
 
 Elliptic 数据集（Weber et al., 2019，Kaggle: `ellipticco/elliptic-data-set`）：
 203,769 节点 / 234,355 有向边 / 49 个时间片（每片约 2 周）；
