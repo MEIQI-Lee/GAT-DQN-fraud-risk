@@ -1,0 +1,27 @@
+{
+  "n_samples": 6985,
+  "n_positive": 682,
+  "roc_auc": 0.979978346670091,
+  "pr_auc": 0.9048548427842258,
+  "ks": 0.8652868833581551,
+  "ks_threshold": 0.7121248841285706,
+  "ks_tpr": 0.9266862170087976,
+  "ks_fpr": 0.061399333650642554,
+  "recall_at_fpr_1pct": 0.7727272727272727,
+  "threshold_at_fpr_1pct": 0.922479510307312,
+  "achieved_fpr_1pct": 0.009836585752816119,
+  "recall_at_fpr_5pct": 0.9105571847507331,
+  "threshold_at_fpr_5pct": 0.7592781186103821,
+  "achieved_fpr_5pct": 0.047755037283833096,
+  "f1_optimal_threshold": 0.9043698906898499,
+  "f1": 0.8332063975628332,
+  "precision_at_f1": 0.866877971473851,
+  "recall_at_f1": 0.8020527859237536,
+  "confusion_matrix_at_f1": {
+    "tn": 6219,
+    "fp": 84,
+    "fn": 135,
+    "tp": 547
+  },
+  "protocol": "random"
+}

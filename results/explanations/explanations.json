@@ -1,0 +1,324 @@
+{
+  "n_explained": 5,
+  "fidelity_subgraph_keeps_illicit": 0.8,
+  "avg_edges": 6.0,
+  "avg_subgraph_confidence": 0.792826771736145,
+  "avg_full_graph_confidence": 0.8902586817741394,
+  "explanations": [
+    {
+      "rank": 1,
+      "tx_id": 30179316,
+      "node_index": 148166,
+      "edges_global_idx": [
+        [
+          150169,
+          148166
+        ],
+        [
+          151181,
+          148166
+        ],
+        [
+          150284,
+          148166
+        ],
+        [
+          150515,
+          148166
+        ],
+        [
+          148707,
+          148166
+        ],
+        [
+          149814,
+          148166
+        ]
+      ],
+      "edges_tx_id": [
+        [
+          30179442,
+          30179316
+        ],
+        [
+          30179385,
+          30179316
+        ],
+        [
+          30179607,
+          30179316
+        ],
+        [
+          30179832,
+          30179316
+        ],
+        [
+          30179612,
+          30179316
+        ],
+        [
+          30179435,
+          30179316
+        ]
+      ],
+      "n_edges": 6,
+      "baseline_confidence_empty_subgraph": 2.8526824280561414e-07,
+      "subgraph_confidence": 0.3230612874031067,
+      "full_graph_confidence": 0.9418424367904663,
+      "keeps_illicit_prediction": false,
+      "figure": "results\\explanations\\explanation_node1_tx30179316.png"
+    },
+    {
+      "rank": 2,
+      "tx_id": 190135471,
+      "node_index": 201532,
+      "edges_global_idx": [
+        [
+          203446,
+          201532
+        ],
+        [
+          201986,
+          201532
+        ],
+        [
+          203661,
+          201532
+        ],
+        [
+          201813,
+          201532
+        ],
+        [
+          201345,
+          201532
+        ],
+        [
+          201813,
+          201814
+        ]
+      ],
+      "edges_tx_id": [
+        [
+          194024172,
+          190135471
+        ],
+        [
+          194011547,
+          190135471
+        ],
+        [
+          193977493,
+          190135471
+        ],
+        [
+          157867980,
+          190135471
+        ],
+        [
+          158310646,
+          190135471
+        ],
+        [
+          157867980,
+          188886947
+        ]
+      ],
+      "n_edges": 6,
+      "baseline_confidence_empty_subgraph": 0.011177141219377518,
+      "subgraph_confidence": 0.9727964997291565,
+      "full_graph_confidence": 0.9279791712760925,
+      "keeps_illicit_prediction": true,
+      "figure": "results\\explanations\\explanation_node2_tx190135471.png"
+    },
+    {
+      "rank": 3,
+      "tx_id": 70023047,
+      "node_index": 136312,
+      "edges_global_idx": [
+        [
+          138141,
+          136312
+        ],
+        [
+          139757,
+          136312
+        ],
+        [
+          138023,
+          136312
+        ],
+        [
+          136833,
+          136312
+        ],
+        [
+          139740,
+          136312
+        ],
+        [
+          137021,
+          136312
+        ]
+      ],
+      "edges_tx_id": [
+        [
+          54727150,
+          70023047
+        ],
+        [
+          54708138,
+          70023047
+        ],
+        [
+          54765373,
+          70023047
+        ],
+        [
+          54814622,
+          70023047
+        ],
+        [
+          54857458,
+          70023047
+        ],
+        [
+          54814612,
+          70023047
+        ]
+      ],
+      "n_edges": 6,
+      "baseline_confidence_empty_subgraph": 0.03706316649913788,
+      "subgraph_confidence": 0.9700624346733093,
+      "full_graph_confidence": 0.9307993650436401,
+      "keeps_illicit_prediction": true,
+      "figure": "results\\explanations\\explanation_node3_tx70023047.png"
+    },
+    {
+      "rank": 4,
+      "tx_id": 106001186,
+      "node_index": 179187,
+      "edges_global_idx": [
+        [
+          183896,
+          179187
+        ],
+        [
+          179749,
+          179187
+        ],
+        [
+          182623,
+          179187
+        ],
+        [
+          183412,
+          179187
+        ],
+        [
+          179754,
+          179187
+        ],
+        [
+          179186,
+          179187
+        ]
+      ],
+      "edges_tx_id": [
+        [
+          106001216,
+          106001186
+        ],
+        [
+          105879136,
+          106001186
+        ],
+        [
+          105443461,
+          106001186
+        ],
+        [
+          105438208,
+          106001186
+        ],
+        [
+          106001665,
+          106001186
+        ],
+        [
+          105874965,
+          106001186
+        ]
+      ],
+      "n_edges": 6,
+      "baseline_confidence_empty_subgraph": 0.08972431719303131,
+      "subgraph_confidence": 0.9777951240539551,
+      "full_graph_confidence": 0.9349176287651062,
+      "keeps_illicit_prediction": true,
+      "figure": "results\\explanations\\explanation_node4_tx106001186.png"
+    },
+    {
+      "rank": 5,
+      "tx_id": 31168385,
+      "node_index": 157681,
+      "edges_global_idx": [
+        [
+          157680,
+          157681
+        ],
+        [
+          157988,
+          157681
+        ],
+        [
+          157440,
+          157988
+        ],
+        [
+          158507,
+          157681
+        ],
+        [
+          158507,
+          159645
+        ],
+        [
+          157440,
+          157255
+        ]
+      ],
+      "edges_tx_id": [
+        [
+          97009432,
+          31168385
+        ],
+        [
+          96567170,
+          31168385
+        ],
+        [
+          4600600,
+          96567170
+        ],
+        [
+          97009617,
+          31168385
+        ],
+        [
+          97009617,
+          97009618
+        ],
+        [
+          4600600,
+          97395877
+        ]
+      ],
+      "n_edges": 6,
+      "baseline_confidence_empty_subgraph": 0.0006115495343692601,
+      "subgraph_confidence": 0.7204185128211975,
+      "full_graph_confidence": 0.7157548069953918,
+      "keeps_illicit_prediction": true,
+      "figure": "results\\explanations\\explanation_node5_tx31168385.png"
+    }
+  ]
+}

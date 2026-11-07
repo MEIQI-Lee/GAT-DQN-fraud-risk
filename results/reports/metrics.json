@@ -1,0 +1,27 @@
+{
+  "n_samples": 16670,
+  "n_positive": 1083,
+  "roc_auc": 0.8995008270085145,
+  "pr_auc": 0.5221820251221663,
+  "ks": 0.6207384743815149,
+  "ks_threshold": 0.37163230776786804,
+  "ks_tpr": 0.7987072945521699,
+  "ks_fpr": 0.17796882017065505,
+  "recall_at_fpr_1pct": 0.3407202216066482,
+  "threshold_at_fpr_1pct": 0.9525900483131409,
+  "achieved_fpr_1pct": 0.009944184256110862,
+  "recall_at_fpr_5pct": 0.6020313942751616,
+  "threshold_at_fpr_5pct": 0.8165866136550903,
+  "achieved_fpr_5pct": 0.04997754539038943,
+  "f1_optimal_threshold": 0.8797692656517029,
+  "f1": 0.5374368396876436,
+  "precision_at_f1": 0.5347349177330896,
+  "recall_at_f1": 0.5401662049861495,
+  "confusion_matrix_at_f1": {
+    "tn": 15078,
+    "fp": 509,
+    "fn": 498,
+    "tp": 585
+  },
+  "protocol": "temporal"
+}

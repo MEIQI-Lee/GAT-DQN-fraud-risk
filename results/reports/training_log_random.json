@@ -1,0 +1,15 @@
+{
+  "hyperparams": {
+    "in_dim": 165,
+    "hidden": 64,
+    "heads": 8,
+    "out_hidden": 100,
+    "dropout": 0.3,
+    "use_skip": false
+  },
+  "protocol": "random",
+  "best_val_auc": 0.9760992182189462,
+  "best_epoch": 287,
+  "test_auc_at_best": 0.979978346670091,
+  "seed": 42
+}

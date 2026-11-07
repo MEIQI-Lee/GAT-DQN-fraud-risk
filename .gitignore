@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Data (raw dataset is large; obtain from Kaggle, see README)
+data/raw/
+data/processed/
+
+# Checkpoints (reproducible via scripts, see README)
+results/checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
